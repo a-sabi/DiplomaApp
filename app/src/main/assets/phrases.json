@@ -1,0 +1,303 @@
+[
+  {
+    "id": 1,
+    "text": "Здравствуйте!",
+    "agx_placeholder": "Салам мегIлайкум!",
+    "category": "greeting",
+    "audio_path": "audio/1.wav"
+  },
+  {
+    "id": 2,
+    "text": "Доброе утро!",
+    "agx_placeholder": "Багамин хайирар!",
+    "category": "greeting",
+    "audio_path": "audio/2.wav"
+  },
+  {
+    "id": 3,
+    "text": "С приездом!",
+    "agx_placeholder": "Идже х1урив!",
+    "category": "greeting",
+    "audio_path": "audio/3.wav"
+  },
+  {
+    "id": 4,
+    "text": "Добрый вечер!",
+    "agx_placeholder": "Иджи гъузурив!",
+    "category": "greeting",
+    "audio_path": "audio/4.wav"
+  },
+  {
+    "id": 5,
+    "text": "До свидания!",
+    "agx_placeholder": "Сагъди илгурай!",
+    "category": "greeting",
+    "audio_path": "audio/5.wav"
+  },
+  {
+    "id": 6,
+    "text": "Спокойной ночи!",
+    "agx_placeholder": "Идже хайирар хьурай!",
+    "category": "greeting",
+    "audio_path": "audio/6.wav"
+  },
+  {
+    "id": 7,
+    "text": "Как тебя зовут?",
+    "agx_placeholder": "Вас фуш агъафе?",
+    "category": "basic",
+    "audio_path": "audio/7.wav"
+  },
+  {
+    "id": 8,
+    "text": "Меня зовут ___.",
+    "agx_placeholder": "Зе ттур ___ э.",
+    "category": "basic",
+    "audio_path": "audio/8.wav"
+  },
+  {
+    "id": 9,
+    "text": "Давайте познакомимся.",
+    "agx_placeholder": "Шаб хьин таниш хьас.",
+    "category": "basic",
+    "audio_path": "audio/9.wav"
+  },
+  {
+    "id": 10,
+    "text": "Как дела?",
+    "agx_placeholder": "Фиркьая?",
+    "category": "basic",
+    "audio_path": "audio/10.wav"
+  },
+  {
+    "id": 11,
+    "text": "Спасибо, хорошо.",
+    "agx_placeholder": "Чухсагъул, иджи ая.",
+    "category": "basic",
+    "audio_path": "audio/11.wav"
+  },
+  {
+    "id": 12,
+    "text": "Плохо / Не очень.",
+    "agx_placeholder": "Iайи иджи адава.",
+    "category": "basic",
+    "audio_path": "audio/12.wav"
+  },
+  {
+    "id": 13,
+    "text": "Спасибо.",
+    "agx_placeholder": "Сагъул.",
+    "category": "politeness",
+    "audio_path": "audio/13.wav"
+  },
+  {
+    "id": 14,
+    "text": "Большое спасибо.",
+    "agx_placeholder": "Чухсагъул.",
+    "category": "politeness",
+    "audio_path": "audio/14.wav"
+  },
+  {
+    "id": 15,
+    "text": "Извините.",
+    "agx_placeholder": "Багъишламиш акье.",
+    "category": "politeness",
+    "audio_path": "audio/15.wav"
+  },
+  {
+    "id": 16,
+    "text": "Простите, я не понял(а).",
+    "agx_placeholder": "Багъишламиш акье, зун гъавурдиъ архьундава.",
+    "category": "politeness",
+    "audio_path": "audio/16.wav"
+  },
+  {
+    "id": 17,
+    "text": "Повторите, пожалуйста.",
+    "agx_placeholder": "Сагелай сара, уп, сара.",
+    "category": "politeness",
+    "audio_path": "audio/17.wav"
+  },
+  {
+    "id": 18,
+    "text": "Где это?",
+    "agx_placeholder": "Нандиъ э ме?",
+    "category": "navigation",
+    "audio_path": "audio/18.wav"
+  },
+  {
+    "id": 19,
+    "text": "Как пройти к ___?",
+    "agx_placeholder": "___ фиштти вес хьасе?",
+    "category": "navigation",
+    "audio_path": "audio/19.wav"
+  },
+  {
+    "id": 20,
+    "text": "Помогите.",
+    "agx_placeholder": "Кумак акье.",
+    "category": "navigation",
+    "audio_path": "audio/20.wav"
+  },
+  {
+    "id": 21,
+    "text": "Я не понимаю.",
+    "agx_placeholder": "Гъавурдиъ архьай адава.",
+    "category": "navigation",
+    "audio_path": "audio/21.wav"
+  },
+  {
+    "id": 22,
+    "text": "Говорите медленнее, пожалуйста.",
+    "agx_placeholder": "Яваштти гъургъ, сара.",
+    "category": "navigation",
+    "audio_path": "audio/22.wav"
+  },
+  {
+    "id": 23,
+    "text": "Сколько это стоит?",
+    "agx_placeholder": "Ме фидегьен э агъаф?",
+    "category": "shopping",
+    "audio_path": "audio/23.wav"
+  },
+  {
+    "id": 24,
+    "text": "Я хочу купить это.",
+    "agx_placeholder": "Зас ме гъушанас кканди ая.",
+    "category": "shopping",
+    "audio_path": "audio/24.wav"
+  },
+  {
+    "id": 25,
+    "text": "Это слишком дорого.",
+    "agx_placeholder": "Ме ппара Iайи багьа э.",
+    "category": "shopping",
+    "audio_path": "audio/25.wav"
+  },
+  {
+    "id": 26,
+    "text": "У вас есть ___?",
+    "agx_placeholder": "Чвахъ ___ хъаяв?",
+    "category": "shopping",
+    "audio_path": "audio/26.wav"
+  },
+  {
+    "id": 27,
+    "text": "Я не понимаю по-агульски.",
+    "agx_placeholder": "Зун агъул чIалан гъавурдиъ архьайдава.",
+    "category": "shopping",
+    "audio_path": "audio/27.wav"
+  },
+  {
+    "id": 28,
+    "text": "Сегодня.",
+    "agx_placeholder": "ЯгIа.",
+    "category": "time",
+    "audio_path": "audio/28.wav"
+  },
+  {
+    "id": 29,
+    "text": "Завтра.",
+    "agx_placeholder": "Багагь.",
+    "category": "time",
+    "audio_path": "audio/29.wav"
+  },
+  {
+    "id": 30,
+    "text": "Вчера.",
+    "agx_placeholder": "Накь.",
+    "category": "time",
+    "audio_path": "audio/30.wav"
+  },
+  {
+    "id": 31,
+    "text": "Который час?",
+    "agx_placeholder": "СеIэт хьимуд э?",
+    "category": "time",
+    "audio_path": "audio/31.wav"
+  },
+  {
+    "id": 32,
+    "text": "Один.",
+    "agx_placeholder": "Сад.",
+    "category": "time",
+    "audio_path": "audio/32.wav"
+  },
+  {
+    "id": 33,
+    "text": "Два.",
+    "agx_placeholder": "Iуд.",
+    "category": "time",
+    "audio_path": "audio/33.wav"
+  },
+  {
+    "id": 34,
+    "text": "Три.",
+    "agx_placeholder": "Хьибуд.",
+    "category": "time",
+    "audio_path": "audio/34.wav"
+  },
+  {
+    "id": 35,
+    "text": "Четыре.",
+    "agx_placeholder": "Якьуд.",
+    "category": "time",
+    "audio_path": "audio/35.wav"
+  },
+  {
+    "id": 36,
+    "text": "Пять.",
+    "agx_placeholder": "ГIуьфуд.",
+    "category": "time",
+    "audio_path": "audio/36.wav"
+  },
+  {
+    "id": 37,
+    "text": "Шесть.",
+    "agx_placeholder": "Ерхьид.",
+    "category": "time",
+    "audio_path": "audio/37.wav"
+  },
+  {
+    "id": 38,
+    "text": "Семь.",
+    "agx_placeholder": "Ерид.",
+    "category": "time",
+    "audio_path": "audio/38.wav"
+  },
+  {
+    "id": 39,
+    "text": "Восемь.",
+    "agx_placeholder": "Муяд.",
+    "category": "time",
+    "audio_path": "audio/39.wav"
+  },
+  {
+    "id": 40,
+    "text": "Девять.",
+    "agx_placeholder": "ЕрчIуд.",
+    "category": "time",
+    "audio_path": "audio/40.wav"
+  },
+  {
+    "id": 41,
+    "text": "Десять.",
+    "agx_placeholder": "ЙицIуд.",
+    "category": "time",
+    "audio_path": "audio/41.wav"
+  },
+  {
+    "id": 42,
+    "text": "Одиннадцать.",
+    "agx_placeholder": "ЦIесад.",
+    "category": "time",
+    "audio_path": "audio/42.wav"
+  },
+  {
+    "id": 43,
+    "text": "Двенадцать.",
+    "agx_placeholder": "ЦIеIуд.",
+    "category": "time",
+    "audio_path": "audio/43.wav"
+  }
+]

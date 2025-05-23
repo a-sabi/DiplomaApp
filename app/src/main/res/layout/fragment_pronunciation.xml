@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/phraseText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Фраза не выбрана"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:paddingBottom="12dp" />
+
+        <Button
+            android:id="@+id/buttonSelectPhrase"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Выбор фразы" />
+
+        <Button
+            android:id="@+id/buttonPlayRef"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="▶ Слушать эталон"
+            android:layout_marginTop="12dp" />
+
+        <Button
+            android:id="@+id/buttonRecord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="🎙 Запись"
+            android:layout_marginTop="8dp" />
+
+        <Button
+            android:id="@+id/buttonEvaluate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="📊 Оценить"
+            android:layout_marginTop="8dp" />
+
+        <TextView
+            android:id="@+id/resultText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Результат"
+            android:paddingTop="16dp"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+    </LinearLayout>
+</ScrollView>
