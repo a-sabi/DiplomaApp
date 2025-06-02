@@ -103,7 +103,6 @@ class PronunciationFragment : Fragment(R.layout.fragment_pronunciation) {
     private fun scoreToText(score: Float) = when {
         score < 20 -> "Отлично!"
         score < 40 -> "Хорошо"
-        score < 60 -> "Можно лучше"
         else -> "Плохо"
     }
 }
